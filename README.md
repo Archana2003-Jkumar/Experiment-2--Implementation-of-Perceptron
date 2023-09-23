@@ -1,4 +1,4 @@
-[# Experiment-2--Implementation-of-Perceptron
+# Experiment-2--Implementation-of-Perceptron
 ##AIM:
 
 To implement a perceptron for classification using Python
@@ -43,4 +43,4 @@ Print the accuracy
 
 
  PROGRAM:
-](https://github.com/Lavanyajoyce/Experiment-2--Implementation-of-Perceptron.git)https://github.com/Lavanyajoyce/Experiment-2--Implementation-of-Perceptron.git
+(https://github.com/Lavanyajoyce/Experiment-2--Implementation-of-Perceptron.git)https://github.com/Lavanyajoyce/Experiment-2--Implementation-of-Perceptron.git
